@@ -1,6 +1,6 @@
 ### Hi there, I'm Pablo Torrijos Arenas 👋
 
-PhD Researcher at **Universidad de Castilla-La Mancha (Albacete), member of the [**Intelligent Systems and Data Mining (SIMD)**](https://simd.i3a.uclm.es/) research group.
+PhD Researcher at **Universidad de Castilla-La Mancha** (Albacete), member of the [**Intelligent Systems and Data Mining (SIMD)**](https://simd.i3a.uclm.es/) research group.
 
 Working on **Federated Learning** and **Unlearning** of **Bayesian Networks** and **Bayesian Classifiers**.
 
